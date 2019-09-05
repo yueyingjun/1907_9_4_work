@@ -1,0 +1,569 @@
+/* 第一张图片 */
+@media screen and (min-width:0){
+	.p1{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_small.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:730px){
+	.p1{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_medium.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:1075px;){
+	.p1{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_large.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+/* 第二张 ***********************************/
+/* 第一张图片 */
+@media screen and (min-width:0){
+	.p2{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_small.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:730px){
+	.p2{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_medium.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:1075px;){
+	.p2{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_large.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+/* 第三张 ********************/
+/* 第一张图片 */
+@media screen and (min-width:0){
+	.p3{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_small.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:730px){
+	.p3{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_medium.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:1075px){
+	.p3{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/v/home/el/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_large.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+/* 第四张 ************************/
+/* 第一张图片 */
+@media screen and (min-width:0){
+	.p4{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_small.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:730px){
+	.p4{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_medium.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:1075px;){
+	.p4{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_large.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+/* 第五张 *************************/
+/* 第一张图片 */
+@media screen and (min-width:0){
+	.p5{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/airpods/tile__cauwwcyyn9hy_small.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:730px){
+	.p5{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/airpods/tile__cauwwcyyn9hy_medium.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:1075px;){
+	.p5{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/cn/home/images/promos/airpods/tile__cauwwcyyn9hy_large.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+/* 第六张*******************/
+/* 第一张图片 */
+@media screen and (min-width:0){
+	.p6{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/v/home/el/images/promos/ipad-pro/ipad_pro__cesqtbwwmi2u_small.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:730px){
+	.p6{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/v/home/el/images/promos/ipad-pro/ipad_pro__cesqtbwwmi2u_medium.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
+@media screen and (min-width:1075px;){
+	.p6{
+		width:100%;height:500px;
+		background-image:url(https://www.apple.com/v/home/el/images/promos/ipad-pro/ipad_pro__cesqtbwwmi2u_large.jpg);
+		background-position:center bottom;
+		background-size:auto 75%;
+		background-repeat:no-repeat;
+		background-color:#fafafa;
+		text-align:center;
+
+	}
+	H2{
+		padding:0;margin:0;
+		font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+		font-size:30px;
+		margin-bottom:20px;
+		
+	}
+	H3{
+		padding:0;margin:0;
+		width:auto;
+		font-size:15px;
+		font-weight:normal;
+		text-align:center;
+		padding-top:20px;
+		margin:auto;
+	}
+	a{
+		color:blue;
+	}
+}
