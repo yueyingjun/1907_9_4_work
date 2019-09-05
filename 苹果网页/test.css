@@ -1,0 +1,146 @@
+
+.container{
+    width: 580px;
+    margin: auto;
+}
+.div-z-1{
+    width: 8.333333333%;
+}
+.div-z-2{
+    width: 16.6666667%;
+}
+.div-z-3{
+    width:25%;
+}
+.div-z-4{
+    width: 33.3333333%;
+}
+.div-z-5{
+    width: 41.6666667%;
+}
+.div-z-6{
+    width: 50%;
+}
+.div-z-7{
+    width: 58.33333333%;
+}
+.div-z-8{
+    width: 66.6666667%;
+}
+.div-z-9{
+    width: 75%;
+}
+.div-z-10{
+    width: 83.33333333%;
+}
+.div-z-11{
+    width: 91.66666667%;
+}
+.div-z-12{
+    width: 100%;
+}
+.div-z-none{
+    display: none;
+}
+
+@media screen and (min-width:730px){
+    .container{
+        width: 600px;
+        margin: auto;
+    }
+    .div-x-1{
+        width: 8.333333333%;
+    }
+    .div-x-2{
+        width: 16.6666667%;
+    }
+    .div-x-3{
+        width:25%;
+    }
+    .div-x-4{
+        width: 33.3333333%;
+    }
+    .div-x-5{
+        width: 41.6666667%;
+    }
+    .div-x-6{
+        width: 50%;
+    }
+    .div-x-7{
+        width: 58.33333333%;
+    }
+    .div-x-8{
+        width: 66.6666667%;
+    }
+    .div-x-9{
+        width: 75%;
+    }
+    .div-x-10{
+        width: 83.33333333%;
+    }
+    .div-x-11{
+        width: 91.66666667%;
+    }
+    .div-x-12{
+        width: 100%;
+    }
+    .div-z-none{
+        display: block;
+    }
+    .div-x-none{
+        display: none;
+    }
+
+}
+
+@media screen and (min-width:1070px){
+    .container{
+        width: 900px;
+        margin: auto;
+    }
+    .div-w-1{
+        width: 8.333333333%;
+    }
+    .div-w-2{
+        width: 16.6666667%;
+    }
+    .div-w-3{
+        width:25%;
+    }
+    .div-w-4{
+        width: 33.3333333%;
+    }
+    .div-m-5{
+        width: 41.6666667%;
+    }
+    .div-w-6{
+        width: 50%;
+    }
+    .div-w-7{
+        width: 58.33333333%;
+    }
+    .div-w-8{
+        width: 66.6666667%;
+    }
+    .div-w-9{
+        width: 75%;
+    }
+    .div-w-10{
+        width: 83.33333333%;
+    }
+    .div-w-11{
+        width: 91.66666667%;
+    }
+    .div-w-12{
+        width: 100%;
+    }
+    .div-z-none{
+        display: block;
+    }
+    .div-x-none{
+        display: block;
+    }
+    .div-w-none{
+        display: none;
+    }
+}
