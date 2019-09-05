@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>变换</title>
+
+    <style>
+
+        @media screen and (min-width: 0px) {
+            .box{
+                width: 300px;
+                height: 400px;
+                margin: auto;
+            }
+            .left div{
+                float: left;
+            }
+            .left{
+                float: left;
+                width: 66.6666%;
+                height: 100%;
+                display: none;
+            }
+            .left div:nth-child(3){
+                background: lightskyblue;
+            }
+            .left div:nth-child(4){
+                background: aqua;
+            }
+            .left .one{
+                width: 33.3333%;
+                height: 50%;
+                background: lightcoral;
+            }
+            .left .two{
+                width: 66.666%;
+                height: 50%;
+                background:#2691FD;
+            }
+            .right{
+                float: right;
+                width: 100%;
+                height: 100%;
+            }
+            .right div{
+                width: 100%;
+                height: 25%;
+                border: 1px solid #000000;
+                background: lightgreen;
+                box-sizing: border-box;
+            }
+        }
+        @media screen and (min-width: 600px) {
+            .box{
+                width: 600px;
+                height: 400px;
+                margin: auto;
+            }
+            .left div{
+                float: left;
+            }
+            .left{
+                float: left;
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+            .left .one{
+                width: 33.3333%;
+                height: 50%;
+                background: lightcoral;
+                display: none;
+            }
+            .left .two{
+                width: 100%;
+                height: 50%;
+                background:#2691FD;
+            }
+            .right{
+                float: right;
+                width: 33.33%;
+                height: 100%;
+                display: none;
+            }
+            .right div{
+                width: 100%;
+                height: 25%;
+
+                background: lightgreen;
+                box-sizing: border-box;
+            }
+        }
+        @media screen and (min-width: 900px) {
+            .box{
+                width: 900px;
+                height: 400px;
+                margin: auto;
+            }
+            .left div{
+                float: left;
+            }
+            .left{
+                float: left;
+                width: 100%;
+                height: 100%;
+            }
+            .left .one{
+                width: 33.3333%;
+                height: 50%;
+                background: lightcoral;
+                display: block;
+            }
+            .left .two{
+                width: 66.666%;
+                height: 50%;
+                background:#2691FD;
+            }
+            .right{
+                float: right;
+                width: 33.33%;
+                height: 100%;
+            }
+            .right div{
+                width: 100%;
+                height: 25%;
+
+                background: lightgreen;
+                box-sizing: border-box;
+            }
+        }
+        @media screen and (min-width: 1200px) {
+            .box{
+                width: 1200px;
+                height: 400px;
+                margin: auto;
+            }
+            .left div{
+                float: left;
+            }
+            .left{
+                float: left;
+                width: 66.6666%;
+                height: 100%;
+            }
+            .left .one{
+                 width: 33.3333%;
+                 height: 50%;
+                 background: lightcoral;
+             }
+            .left .two{
+                width: 66.666%;
+                height: 50%;
+                background:#2691FD;
+            }
+            .right{
+                float: right;
+                width: 33.33%;
+                height: 100%;
+                display: block;
+            }
+            .right div{
+                width: 100%;
+                height: 25%;
+
+                background: lightgreen;
+                box-sizing: border-box;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="left">
+            <div class="one"></div>
+            <div class="two"></div>
+            <div class="two"></div>
+            <div class="one"></div>
+        </div>
+        <div class="right">
+            <div class="one"></div>
+            <div class="two"></div>
+            <div class="three"></div>
+            <div class="four"></div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c9a555d-5164-4d04-a7c9-068c3965787d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="html" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apple.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1490">
+              <caret line="340" selection-start-line="340" selection-end-line="340" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gongshi.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="60" selection-start-line="60" selection-end-line="262" selection-end-column="1" />
+              <folding>
+                <element signature="e#10#52#0" />
+                <element signature="e#728#1766#0" />
+                <element signature="e#1768#2848#0" />
+                <element signature="e#2850#3938#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apple.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="204" column="1" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
+              <folding>
+                <element signature="e#2#1040#0" />
+                <element signature="e#1042#2122#0" />
+                <element signature="e#2124#3212#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo.css" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/two.html" />
+        <option value="$PROJECT_DIR$/uek.css.html" />
+        <option value="$PROJECT_DIR$/uek.html" />
+        <option value="$PROJECT_DIR$/text.html" />
+        <option value="$PROJECT_DIR$/uek视屏.html" />
+        <option value="$PROJECT_DIR$/shiying.html" />
+        <option value="$PROJECT_DIR$/image/taiji.html" />
+        <option value="$PROJECT_DIR$/uek首页.html" />
+        <option value="$PROJECT_DIR$/uek.css" />
+        <option value="$PROJECT_DIR$/bianhuan.html" />
+        <option value="$PROJECT_DIR$/gongshi.html" />
+        <option value="$PROJECT_DIR$/gongshi.css" />
+        <option value="$PROJECT_DIR$/apple.html" />
+        <option value="$PROJECT_DIR$/apple.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1295" />
+    <option name="height" value="499" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\qianduan\html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\qianduan\html" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c9a555d-5164-4d04-a7c9-068c3965787d" name="Default Changelist" comment="" />
+      <created>1567041412058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567041412058</updated>
+      <workItem from="1567041422235" duration="21496000" />
+      <workItem from="1567084174117" duration="6551000" />
+      <workItem from="1567125554759" duration="23668000" />
+      <workItem from="1567164171281" duration="655000" />
+      <workItem from="1567327067194" duration="14263000" />
+      <workItem from="1567390024170" duration="3797000" />
+      <workItem from="1567415856191" duration="13912000" />
+      <workItem from="1567470944411" duration="6352000" />
+      <workItem from="1567503359241" duration="7652000" />
+      <workItem from="1567516131596" duration="4781000" />
+      <workItem from="1567557263624" duration="16753000" />
+      <workItem from="1567582520268" duration="14729000" />
+      <workItem from="1567601684482" duration="11892000" />
+      <workItem from="1567642938013" duration="1239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147740000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49209931" visible="true" weight="0.3111588" />
+      <window_info id="Structure" order="1" sideWeight="0.50790066" side_tool="true" weight="0.18776824" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.17757511" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3299356" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uek.png" />
+    <entry file="file://$PROJECT_DIR$/two.html" />
+    <entry file="file://$PROJECT_DIR$/uek.php" />
+    <entry file="file://$PROJECT_DIR$/uek.css.html" />
+    <entry file="file://$PROJECT_DIR$/text.html" />
+    <entry file="file://$PROJECT_DIR$/uek视屏.html" />
+    <entry file="file://$PROJECT_DIR$/taiji.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uek首页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="456" selection-start-line="456" selection-end-line="456" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#14;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#16;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#17;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#19;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uek.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#115#0" />
+            <element signature="e#122#180#0" />
+            <element signature="e#192#239#0" />
+            <element signature="e#251#309#0" />
+            <element signature="e#324#430#0" />
+            <element signature="e#439#518#0" />
+            <element signature="e#529#633#0" />
+            <element signature="e#642#700#0" />
+            <element signature="e#711#814#0" />
+            <element signature="e#831#882#0" />
+            <element signature="e#889#974#0" />
+            <element signature="e#1089#1166#0" />
+            <element signature="e#1177#1258#0" />
+            <element signature="e#1269#1324#0" />
+            <element signature="e#1335#1413#0" />
+            <element signature="e#1423#1513#0" />
+            <element signature="e#2083#2171#0" />
+            <element signature="e#2180#2239#0" />
+            <element signature="e#2574#2582#0" />
+            <element signature="e#2701#2814#0" />
+            <element signature="e#2827#2934#0" />
+            <element signature="e#2389#2596#0" />
+            <element signature="e#2602#2659#0" />
+            <element signature="e#2667#2713#0" />
+            <element signature="e#2725#2831#0" />
+            <element signature="e#2846#2951#0" />
+            <element signature="e#2959#2999#0" />
+            <element signature="e#3009#3134#0" />
+            <element signature="e#3141#3265#0" />
+            <element signature="e#3272#3311#0" />
+            <element signature="e#3314#3334#0" />
+            <element signature="e#3361#3419#0" />
+            <element signature="e#3435#3545#0" />
+            <element signature="e#3562#3673#0" />
+            <element signature="e#3692#3829#0" />
+            <element signature="e#3849#3963#0" />
+            <element signature="e#3984#4115#0" />
+            <element signature="e#4140#4187#0" />
+            <element signature="e#4210#4271#0" />
+            <element signature="e#4291#4436#0" />
+            <element signature="e#4459#4544#0" />
+            <element signature="e#4561#4627#0" />
+            <element signature="e#4652#4710#0" />
+            <element signature="e#4727#4837#0" />
+            <element signature="e#4854#4933#0" />
+            <element signature="e#4950#5064#0" />
+            <element signature="e#5082#5227#0" />
+            <element signature="e#5250#5335#0" />
+            <element signature="e#5349#5426#0" />
+            <element signature="e#5429#5509#0" />
+            <element signature="e#5513#5550#0" />
+            <element signature="e#5554#5611#0" />
+            <element signature="e#5615#5738#0" />
+            <element signature="e#5742#5836#0" />
+            <element signature="e#5842#5993#0" />
+            <element signature="e#6001#6064#0" />
+            <element signature="e#6070#6116#0" />
+            <element signature="e#6121#6166#0" />
+            <element signature="e#6169#6189#0" />
+            <element signature="e#6192#6251#0" />
+            <element signature="e#6255#6365#0" />
+            <element signature="e#6370#6494#0" />
+            <element signature="e#6500#6645#0" />
+            <element signature="e#6656#6741#0" />
+            <element signature="e#6747#6838#0" />
+            <element signature="e#6844#6910#0" />
+            <element signature="e#6915#6990#0" />
+            <element signature="e#7002#7035#0" />
+            <element signature="e#7040#7164#0" />
+            <element signature="e#7169#7293#0" />
+            <element signature="e#7298#7422#0" />
+            <element signature="e#7442#7533#0" />
+            <element signature="e#7552#7673#0" />
+            <element signature="e#7693#7814#0" />
+            <element signature="e#7833#7953#0" />
+            <element signature="e#7972#8092#0" />
+            <element signature="e#8112#8180#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiying.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uek.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="58" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="58" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bianhuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/series_4__b539g9eyf22u_large (1).jpg" />
+    <entry file="file://$PROJECT_DIR$/image/watch_large.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/iphone_xr_logo_hero__doak3cl4qzqu_large_2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/phone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/iphone_large.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/iphone_xr_logo_hero__doak3cl4qzqu_large.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/iphone_xs_logo_hero__cao5flrjmvqq_large_2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/iphone_xs_logo_hero__cao5flrjmvqq_large.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/iphone_xr_large_2x.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/main__bmngiblug0mq_large.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/series_4__b539g9eyf22u_large.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/main__bmngiblug0mq_large_2x.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/main__bmngiblug0mq_large_WPS.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/series_4__b539g9eyf22u_large_2x.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/macbook_pro_performance__dpg5ujd89nyq_large_2x.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/tile__cauwwcyyn9hy_large_2x (1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/tile__cauwwcyyn9hy_large_2x (2).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/tile__cauwwcyyn9hy_large_2x.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/tile__cauwwcyyn9hy_large.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/tile__cauwwcyyn9hy_large (3).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/tile__cauwwcyyn9hy_large (1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/tile__cauwwcyyn9hy_large (2).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/macbook_pro_performance__dpg5ujd89nyq_large.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gongshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gongshi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="60" selection-start-line="60" selection-end-line="262" selection-end-column="1" />
+          <folding>
+            <element signature="e#10#52#0" />
+            <element signature="e#728#1766#0" />
+            <element signature="e#1768#2848#0" />
+            <element signature="e#2850#3938#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="204" column="1" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
+          <folding>
+            <element signature="e#2#1040#0" />
+            <element signature="e#1042#2122#0" />
+            <element signature="e#2124#3212#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1490">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

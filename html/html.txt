@@ -1,0 +1,34 @@
+前端:html5、css、JavaScript。
+html：
+超文本标记语言（Hyper Text Markup Languge）
+<!doctype html>                文档说明
+<html>   
+<head>头
+	<meta charset = "utf-8">
+	<title>这是一个网页</title>  标签名
+	<meta name="keywords" content="java java教程">
+	<meta name="keywords" content="xcvbn">
+</head>
+<body>身
+
+</body>
+</html>标签
+
+seo:Search Engine Optimization。搜索引擎和优化
+所有修饰文字的都是行元素<span>，剩下的是快元素<div>
+<strong>123</strong>强调行加粗，突出部分
+<b></b>只加粗
+<em></em>倾斜
+<u></u>下划线
+
+快元素
+<h1></h1>~<h6></h6>  标题
+<ul>
+<li>张三</li> 无序<ol>李四</ol>有序
+</ul>列表
+<table>
+<tr>
+<td>
+</td>列
+</tr>行
+</table>表格
