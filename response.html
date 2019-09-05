@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        .box{
+            height: 300px;
+        }
+        .left,.right{
+            height: 100%;
+        }
+        .right{
+            box-sizing: border-box;
+            border: 1px solid red;
+        }
+        .left>div{
+            height: 50%;
+        }
+        .right>div{
+            height: 25%;
+        }
+        .one{
+            background-color: red;
+        }
+        .two{
+            background-color: yellow;
+        }
+        .three{
+            background-color: blue;
+        }
+        .four{
+            background-color: green;
+        }
+    </style>
+    <link rel="stylesheet" href="response/response.css">
+</head>
+<body>
+<div class="box">
+    <div class="left div-l-9 div-m-12 div-n-12 div-s-hide">
+        <div class="one div-m-4 div-n-hide"></div>
+        <div class="two div-m-8 div-n-12"></div>
+        <div class="three div-m-8 div-n-12"></div>
+        <div class="four div-m-4 div-n-hide"></div>
+    </div>
+    <div class="right div-l-3 div-m-hide div-n-hide div-s-12">
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+    </div>
+</div>
+</body>
+</html>
