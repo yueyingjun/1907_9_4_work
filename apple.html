@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>apple</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+        }
+
+        a {
+            color: #3BABDA;
+        }
+
+        .top1 {
+            width: 100%;
+            height: 580px;
+            background: #fafafa url(https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_small.jpg) no-repeat center 200px;
+            background-size: 279px 351px;
+            margin-bottom:10px; 
+        }
+
+        .top2 {
+            width: 100%;
+            height: 580px;
+            background: #fafafa url(https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_small.jpg) no-repeat center 0;
+            background-size: 736px 548px;
+            margin-bottom:10px; 
+        }
+
+        .top3 {
+            width: 100%;
+            height: 580px;
+            background: #fafafa url(https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_small.jpg) no-repeat center 200px;
+            background-size: 422px 314px;
+            margin-bottom:10px; 
+        }
+
+        /*下面*/
+        .container {
+            overflow: hidden;
+        }
+
+        .one {
+            height: 580px;
+            background: #fafafa url(https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_small.jpg) no-repeat center 200px;
+            background-size: 200px 322px;
+            border-style: solid;
+            border-width: 6px 6px 6px 12px;
+            border-color: #fff;
+            box-sizing: border-box;
+        }
+
+        .two {
+            height: 580px;
+            background: #fafafa url(https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_small.jpg) no-repeat center 150px;
+            background-size: 320px 460px;
+            border-style: solid;
+            border-width: 6px 12px 6px 6px;
+            border-color: #fff;
+            box-sizing: border-box;
+        }
+
+        .three {
+            height: 580px;
+            background: #fafafa url(https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_small.jpg) no-repeat center 0;
+            background-size: 736px 548px;
+            border-style: solid;
+            border-width: 6px 6px 6px 12px;
+            border-color: #fff;
+            box-sizing: border-box;
+        }
+
+        .three h1 {
+            color: #fff;
+        }
+
+        .three h3 {
+            color: #fff;
+        }
+
+        .frou {
+            height: 580px;
+
+            background: #fafafa url(https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_small.jpg) no-repeat center 20px;
+            background-size: 736px 548px;
+            border-style: solid;
+            border-width: 6px 12px 6px 6px;
+            border-color: #fff;
+            box-sizing: border-box;
+        }
+
+        .five {
+            height: 580px;
+
+            background: #fafafa url(https://www.apple.com/cn/home/images/promos/airpods/tile__cauwwcyyn9hy_small.jpg) no-repeat center 20px;
+            background-size: 736px 548px;
+            border-style: solid;
+            border-width: 6px 6px 6px 12px;
+            border-color: #fff;
+            box-sizing: border-box;
+        }
+
+        .six {
+            height: 580px;
+
+            background: #fafafa url(https://www.apple.com/v/home/el/images/promos/ipad-pro/ipad_pro__cesqtbwwmi2u_small.jpg) no-repeat center 240px;
+            background-size: 236px 332px;
+            border-style: solid;
+            border-width: 6px 12px 6px 6px;
+            border-color: #fff;
+            box-sizing: border-box;
+        }
+
+        .h1-img {
+            margin: 0 auto 10px;
+            width: 123px;
+            height: 47px;
+            background: #fafafa url(https://www.apple.com/v/home/el/images/logos/series_4__b539g9eyf22u_small.jpg) no-repeat center 0;
+            background-size: 123px 47px;
+        }
+
+
+        h1 {
+            width: 460px;
+            padding-top:20px;
+            box-sizing: border-box; 
+            overflow: hidden;
+            margin: 0 auto ;
+            text-align: center;
+            font-size: 40px;
+        }
+
+        h3 {
+            width: 410px;
+            font-size: 14px;
+            text-align: center;
+            font-weight: normal;
+            margin: 0 auto 10px;
+        }
+
+        p {
+            text-align: center;
+        }
+
+        p a {
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+
+
+        @media screen and (min-width: 730px) {
+
+            /*第一个*/
+            .top1 {
+                width: 100%;
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_medium.jpg) no-repeat center 200px;
+                background-size: 573px 337px;
+                margin-bottom:10px; 
+            }
+
+            /*第二个*/
+            .top2 {
+                width: 100%;
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_medium.jpg) no-repeat center 0;
+                background-size: 1068px 617px;
+                margin-bottom:10px; 
+            }
+
+            /*第三个*/
+            .top3 {
+                width: 100%;
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_medium.jpg) no-repeat center 200px;
+                background-size: 501px 338px;
+                margin-bottom:10px; 
+            }
+
+            /*下面*/
+            .container {
+                overflow: hidden;
+            }
+
+            .one {
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_medium.jpg) no-repeat center 200px;
+                background-size: 206px 307px;
+                border-style: solid;
+                border-width: 6px 6px 6px 12px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .two {
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_medium.jpg) no-repeat center 150px;
+                background-size: 350px 380px;
+                border-style: solid;
+                border-width: 6px 12px 6px 6px;
+                border-color: #fff;
+                box-sizing: border-box;
+
+            }
+
+            .three {
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_medium.jpg) no-repeat center 0;
+                background-size: 516px 490px;
+                border-style: solid;
+                border-width: 6px 6px 6px 12px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .three h1 {
+                color: #fff;
+            }
+
+            .three h3 {
+                color: #fff;
+            }
+
+            .frou {
+                height: 580px;
+
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_medium.jpg) no-repeat center 20px;
+                background-size: 516px 490px;
+                border-style: solid;
+                border-width: 6px 12px 6px 6px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .five {
+                height: 580px;
+
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/airpods/tile__cauwwcyyn9hy_medium.jpg) no-repeat center 20px;
+                background-size: 516px 490px;
+                border-style: solid;
+                border-width: 6px 6px 6px 12px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .six {
+                height: 580px;
+
+                background: #fafafa url(https://www.apple.com/v/home/el/images/promos/ipad-pro/ipad_pro__cesqtbwwmi2u_medium.jpg) no-repeat center 240px;
+                background-size: 226px 317px;
+                border-style: solid;
+                border-width: 6px 12px 6px 6px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .h1-img {
+                margin: 0 auto 10px;
+                width: 156px;
+                height: 60px;
+                background: #fafafa url(https://www.apple.com/v/home/el/images/logos/series_4__b539g9eyf22u_medium.jpg) no-repeat center 0;
+                background-size: 156px 60px;
+            }
+
+            h1 {
+
+                width: 320px;
+                padding-top:20px;
+            box-sizing: border-box;
+                overflow: hidden;
+                margin: 0 auto ;
+                text-align: center;
+                font-size: 34px;
+            }
+
+            h3 {
+                width: 330px;
+                font-size: 18px;
+                text-align: center;
+                font-weight: normal;
+                margin: 0 auto 10px;
+            }
+
+            p {
+
+                text-align: center;
+            }
+
+            p a {
+                text-decoration: none;
+                font-size: 18px;
+            }
+
+        }
+
+
+        @media screen and (min-width: 1070px) {
+
+            /*第一个*/
+            .top1 {
+                width: 100%;
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_large.jpg) no-repeat center 200px;
+                background-size: 630px 360px;
+                margin-bottom:10px; 
+            }
+
+            /*第二个*/
+            .top2 {
+                width: 100%;
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_large.jpg) no-repeat center;
+                background-size: 2560px 624px;
+                margin-bottom:10px; 
+
+            }
+
+            /*第三个*/
+            .top3 {
+                width: 100%;
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_large.jpg) no-repeat center 200px;
+                background-size: 505px 334px;
+                margin-bottom:10px; 
+
+            }
+
+            /*下面*/
+            .container {
+                overflow: hidden;
+            }
+
+            .one {
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_large.jpg) no-repeat center 200px;
+                background-size: 274px 392px;
+                border-style: solid;
+                border-width: 6px 6px 6px 12px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .two {
+                height: 580px;
+                padding: 10px;
+                background: #fafafa url(https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_large.jpg) no-repeat center 150px;
+                background-size: 516px 430px;
+                border-style: solid;
+                border-width: 6px 12px 6px 6px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .three {
+                height: 580px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_large.jpg) no-repeat center 0;
+                background-size: 1262px 580px;
+                border-style: solid;
+                border-width: 6px 6px 6px 12px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .three h1 {
+                color: #fff;
+            }
+
+            .three h3 {
+                color: #fff;
+            }
+
+            .frou {
+                height: 580px;
+
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_large.jpg) no-repeat center 20px;
+                background-size: 1262px 580px;
+                border-style: solid;
+                border-width: 6px 12px 6px 6px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .five {
+                height: 580px;
+                padding: 10px;
+                background: #fafafa url(https://www.apple.com/cn/home/images/promos/airpods/tile__cauwwcyyn9hy_large.jpg) no-repeat center 20px;
+                background-size: 1262px 580px;
+                border-style: solid;
+                border-width: 6px 6px 6px 12px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .six {
+                height: 580px;
+
+                background: #fafafa url(https://www.apple.com/v/home/el/images/promos/ipad-pro/ipad_pro__cesqtbwwmi2u_large.jpg) no-repeat center 240px;
+                background-size: 426px 377px;
+                border-style: solid;
+                border-width: 6px 12px 6px 6px;
+                border-color: #fff;
+                box-sizing: border-box;
+            }
+
+            .h1-img {
+                margin: 0 auto 10px;
+                width: 206px;
+                height: 78px;
+                background: #fafafa url(https://www.apple.com/v/home/el/images/logos/series_4__b539g9eyf22u_large.jpg) no-repeat center 0;
+                background-size: 206px 78px;
+            }
+
+            h1 {
+                width: 400px;
+                overflow: hidden;
+                margin: 0 auto ;
+                padding-top: 20px;
+                box-sizing: border-box;
+                text-align: center;
+                font-size: 40px;
+            }
+
+            h3 {
+                width: 450px;
+                font-size: 20px;
+                text-align: center;
+                font-weight: normal;
+                margin: 0 auto 5px;
+            }
+
+            p {
+
+                text-align: center;
+            }
+
+            p a {
+                text-decoration: none;
+                font-size: 20px;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="./css/respone.css">
+</head>
+
+<body>
+    <div class="top1">
+        <h1>iPhone XR</h1>
+        <h3>全面屏设计，iPhone 上最强的电池续航，出类拔萃的性能，以及影棚质感的照片效果。</h3>
+        <p><a href="">进一步了解>&nbsp;&nbsp;购买></a></p>
+
+    </div>
+    <div class="top2">
+        <h1>iPhone XS</h1>
+        <h3>iPhone 上最大的超视网膜显示屏，性能出类拔萃的 A12 仿生，安全性更进一步的面容 ID，以及支持景深控制的突破性双镜头系统。</h3>
+        <p><a href="">进一步了解>&nbsp;&nbsp;购买></a></p>
+    </div>
+    <div class="top3">
+        <div class="h1-img"></div>
+        <h3>更强,更出彩。</h3>
+        <p><a href="">进一步了解>&nbsp;&nbsp;购买></a></p>
+    </div>
+
+    <div class="container">
+        <div class="one div-m-6 div-n-6 div-s-12">
+            <h1>Apple 特别活动</h1>
+            <h3>北京时间 9 月 11 日凌晨 1 点，欢迎来观看主题演讲。</h3>
+        </div>
+        <div class="two div-m-6 div-n-6 div-s-12">
+            <h1>折抵换购 iPhone XR 仅 RMB 200/月起，或RMB 4799 起。</h1>
+            <h3>两种方式，让你轻松折抵换购新 iPhone：直接在线操作，或者在 Apple Store 零售店办理。</h3>
+            <p><a href="">进一步了解>&nbsp;&nbsp;购买></a></p>
+        </div>
+        <div class="three div-m-6 div-n-6 div-s-12">
+            <h1>MacBook Pro</h1>
+            <h3>更强劲，更专业的强劲。</h3>
+            <p><a href="">进一步了解>&nbsp;&nbsp;购买></a></p>
+        </div>
+        <div class="frou div-m-6 div-n-6 div-s-12">
+            <h1>为高校生活购买 Mac 或 iPad，Beats 耳机搭配其中</h1>
+            <p><a href="">选购></a></p>
+        </div>
+        <div class="five div-m-6 div-n-6 div-s-12">
+            <h1>AirPods</h1>
+            <h3>真无线，真妙，真我。<br>个性化镌刻服务，官网独家福利。</h3>
+            <p><a href="">进一步了解>&nbsp;&nbsp;购买></a></p>
+        </div>
+        <div class="six div-m-6 div-n-6 div-s-12">
+            <h1>iPad Pro</h1>
+            <h3>全新，全面屏，全方位强大。</h3>
+            <p><a href="">进一步了解>&nbsp;&nbsp;购买></a></p>
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>
