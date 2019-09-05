@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="demo.css">
+   <style>
+
+    body,h1,h2,h3{
+        margin: 0;padding: 0;
+    }
+
+     @media screen and (max-width: 730px){
+         .flone-one{
+             width: 100%; height: 580px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_small.jpg") no-repeat center center;
+             background-sizex:auto 100%;
+         }
+         h1{
+             text-align: center;
+             font-size: 30px;
+         }
+         h2{
+             width: 400px;
+             font-size:10px;
+             color: red;
+             margin: auto;
+             text-align: center;
+             font-weight: bold;
+         }
+         h3{
+             width: 400px;
+             font-size:14px;
+             margin: auto;
+             text-align: center;
+             font-weight: bold;
+         }
+       /* .link{
+             text-align: center;
+
+         }
+         a{
+             font-size:21px;
+             color: #0070c9;
+             text-decoration: none;
+         }*/
+
+         .flone-two{
+             margin-top: 20px;
+             width: 100%; height: 580px;
+             background: #fafafa url("https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_small.jpg") no-repeat center center;
+             background-size:auto 100%;
+         }
+
+         .flone-three{
+             margin-top: 20px;
+             width: 100%; height: 580px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_small.jpg") no-repeat center center;
+             background-size:314px 300px;
+         }
+
+         .flone-four{
+             margin-top: 20px;
+             width: 100%; height: 600px;
+             float: left;
+             overflow: hidden;
+         }
+         .flone-four .left{
+             margin-top: 20px;
+             width: 500px; height: 500px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_large.jpg") no-repeat center center;
+             background-size:400px 500px;
+             float: left;
+
+         }
+         .flone-four .right{
+             margin-top: 20px;
+             width:500px; height: 520px;
+             background: #fafafa url("https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_large.jpg") no-repeat center center;
+             background-size:500px 520px;
+             float: left;
+         }
+
+
+         .flone-five{
+             margin-top: 20px;
+             width: 100%; height: 600px;
+             float: left;
+             overflow: hidden;
+         }
+         .flone-five .left{
+             margin-top: 20px;
+             width: 571px; height: 512px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_small.jpg") no-repeat center center;
+             background-size:400px 500px;
+             float: left;
+
+         }
+         .flone-five .right{
+             margin-top: 20px;
+             width:571px; height: 512px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_small.jpg") no-repeat center center;
+             background-size:500px 520px;
+             float: left;
+         }
+
+     }
+     @media screen and (min-width: 730px){
+         .flone-one{
+               width: 100%; height: 580px;
+               background:#fafafa url("https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_medium.jpg") no-repeat center center;
+               background-size:500px 352px
+           }
+         h1{
+               text-align: center;
+               font-size: 40px;
+           }
+         h2{
+             width: 400px;
+             font-size:10px;
+             color: red;
+             margin: auto;
+             text-align: center;
+             font-weight: bold;
+         }
+         h3{
+               height: 520px;
+               font-size:18px;
+               margin: auto;
+               text-align: center;
+               font-weight: bold;
+           }
+       /*  .link{
+             text-align: center;
+
+         }
+         a{
+             font-size:21px;
+             color: #0070c9;
+             text-decoration: none;
+         }*/
+           .flone-two{
+               margin-top: 20px;
+               width: 100%; height: 580px;
+               background: #fafafa url("https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_medium.jpg") no-repeat center center;
+               background-size:1068px 617px;
+           }
+           .flone-three{
+             margin-top: 20px;
+             width: 100%; height: 580px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_medium.jpg") no-repeat center center;
+             background-size:501px 338px;
+         }
+         .flone-four{
+             margin-top: 20px;
+             width: 100%; height: 600px;
+             float: left;
+             overflow: hidden;
+         }
+         .flone-four .left{
+             margin-top: 20px;
+             width: 500px; height: 500px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_large.jpg") no-repeat center center;
+             background-size:400px 500px;
+             float: left;
+
+         }
+         .flone-four .right{
+             margin-top: 20px;
+             width:500px; height: 520px;
+             background: #fafafa url("https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_large.jpg") no-repeat center center;
+             background-size:500px 520px;
+             float: left;
+         }
+
+         .flone-five{
+             margin-top: 20px;
+             width: 100%; height: 600px;
+             float: left;
+             overflow: hidden;
+         }
+         .flone-five .left{
+             margin-top: 20px;
+             width: 447px; height: 490px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_medium.jpg") no-repeat center center;
+             background-size:400px 500px;
+             float: left;
+
+         }
+         .flone-five .right{
+             margin-top: 20px;
+             width:447px; height: 490px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_medium.jpg") no-repeat center center;
+             background-size:500px 520px;
+             float: left;
+         }
+
+
+
+       }
+     @media screen and (min-width: 1070px){
+
+         h1{
+               text-align: center;
+               font-size: 50px;
+           }
+         h2{
+             width: 400px;
+             font-size:10px;
+             color: red;
+             margin: auto;
+             text-align: center;
+             font-weight: bold;
+         }
+         h3{
+                width:545px;
+                font-size:20px;
+                margin: auto;
+                text-align: center;
+                font-weight: bold;
+            }
+        /* .link{
+             text-align: center;
+
+         }
+         a{
+             font-size:21px;
+             color: #0070c9;
+             text-decoration: none;
+         }*/
+         .flone-one{
+             width: 100% ;height: 580px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_large.jpg") no-repeat center center;
+             background-size:622px 352px
+         }
+         .flone-two{
+             margin-top: 20px;
+             width: 100%; height: 580px;
+             background: #fafafa url("https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_large.jpg") no-repeat center center;
+             background-size:2560px 624px;
+         }
+         .flone-three{
+             margin-top: 20px;
+             width: 100%; height: 580px;
+             background: #fafafa url("https://www.apple.com/v/home/el/images/heroes/watch-series-4/watch__csqqcayzqueu_large.jpg") no-repeat center center;
+             background-size:505px 334px;
+         }
+         .flone-four{
+             margin-top: 20px;
+             width: 100%; height: 600px;
+             float: left;
+             overflow: hidden;
+     }
+         .flone-four .left{
+             margin-top: 20px;
+             width: 49%; height: 592px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_large.jpg") no-repeat center center;
+             background-size:274px 392px;
+             float: left;
+
+         }
+         .flone-four .right{
+             margin-top: 20px;
+             width: 49%; height: 592px;
+             background: #fafafa url("https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_large.jpg") no-repeat center center;
+             background-size:516px 430px;
+             float: right;
+         }
+
+         .flone-five{
+             margin-top: 20px;
+             width: 100%; height: 600px;
+             float: left;
+             overflow: hidden;
+         }
+         .flone-five .left{
+             margin-top: 20px;
+             width: 536px; height: 580px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_large.jpg") no-repeat center center;
+             background-size:400px 500px;
+             float: left;
+
+         }
+         .flone-five .right{
+             margin-top: 20px;
+             width:536px; height: 580px;
+             background: #fafafa url("https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_large.jpg") no-repeat center center;
+             background-size:500px 520px;
+             float: left;
+         }
+
+       }
+
+
+
+.container{
+    overflow: hidden;
+}
+.container>div{
+    height: 580px;
+    /*border:1px solid red;*/
+    padding: 12px;
+    box-sizing: border-box;
+}
+   </style>
+</head>
+
+
+
+<body>
+
+<div class="flone-one">
+    <h1>iPhone XR</span></h1>
+    <h3>全面屏设计，iPhone 上最强的电池续航，出类拔萃的性能，
+        以及影棚质感的照片效果。</h3>
+    <!--<div class="link"> <a href="">进一步了解 &nbsp;&gt;</a> <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;购买 &nbsp;&nbsp;&gt;</a>
+    </div>
+-->
+    <div class="container">
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+
+    </div>
+
+</div>
+
+<div class="flone-two">
+    <h1>iPhone XS</span></h1>
+    <h3>iPhone 上最大的超视网膜显示屏，性能出类拔萃的 A12 仿生，安全性更进一步的面容 ID，以及支持景深控制的突破性双镜头系统。</h3>
+    <!--<div class="link"> <a href="">进一步了解 &nbsp;&gt;</a> <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;购买 &nbsp;&nbsp;&gt;</a>
+    </div>-->
+
+
+
+    <div class="container">
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+
+    </div>
+
+</div>
+
+<div class="flone-three">
+    <h1>watch</h1>
+    <h2>SERIES4</h2>
+    <h3>更强，更出彩。</h3><!--
+    <div class="link"> <a href="">进一步了解 &nbsp;&gt;</a> <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;购买 &nbsp;&nbsp;&gt;</a>
+    </div>-->
+
+
+    <div class="container">
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+
+    </div>
+
+</div>
+
+<div class="flone-four">
+    <div class="left">
+        <h1>Apple特别活动</h1>
+        <h3>北京时间9月11日凌晨1点欢迎来观看主题演讲</h3>
+    </div>
+    <div class="right">
+        <h1>折抵换购iPhone XR仅RMB200/月起，或RMB4799起*。</h1>
+        <h3>两种方式，让你轻松折抵换购新iPhone：直接在线操作，或者在APP Store零售店办理。</h3>
+        <div class="link"> <a href="">进一步了解 &nbsp;&gt;</a> <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;购买 &nbsp;&nbsp;&gt;</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+
+    </div>
+
+</div>
+
+<div class="flone-five">
+    <div class="left">
+        <h1>MacBook Pro </h1>
+        <h3>更强劲，更专业的强劲</h3>
+    </div>
+    <div class="right">
+        <h1>为高校生活购买Mac或iPad,Beats耳机搭配其中</h1>
+        <h3>两种方式，让你轻松折抵换购新iPhone：直接在线操作，或者在APP Store零售店办理。</h3>
+<!--        <div class="link"> <a href="">选购 &nbsp;&gt;</a> </div>-->
+    </div>
+
+
+    <div class="container">
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+
+    </div>
+
+</div>
+
+<div class="flone-six">
+    <div class="left">
+        <h1>Apple特别活动</h1>
+        <h3>北京时间9月11日凌晨1点欢迎来观看主题演讲</h3>
+    </div>
+    <div class="right">
+        <h1>折抵换购iPhone XR仅RMB200/月起，或RMB4799起*。</h1>
+        <h3>两种方式，让你轻松折抵换购新iPhone：直接在线操作，或者在APP Store零售店办理。</h3><!--
+        <div class="link"> <a href="">进一步了解 &nbsp;&gt;</a> <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;购买 &nbsp;&nbsp;&gt;</a>
+        </div>-->
+    </div>
+    <div class="container">
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+        <div class="div-n-6 div-s-12"></div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
