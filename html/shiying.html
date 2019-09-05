@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>自适应</title>
+
+
+    <style>
+
+        div{
+            box-sizing:border-box;
+         }
+        body{
+
+            min-width: 600px;
+            margin: 0px;
+            padding: 0px;
+        }
+        @media screen and (min-width: 600px){
+            .one{
+                width: 600px;
+                height: auto;
+                margin: auto;
+
+            }
+            .a{
+                float: left;
+                width: auto;
+                height: auto;
+            }
+            .two1{
+
+                width: auto;
+                height: auto;
+            }
+            .two2{
+                float: right;
+                width: auto;
+                height: auto;
+            }
+            .three1{
+                width: 600px;
+                height: 200px;
+                float: left;
+                background: red;
+            }
+            .three2{
+                width: 0;
+                height: 0;
+            }
+            .three3{
+                width: 0;
+                height: 0;
+                border:0;
+            }
+        }
+        @media screen and (min-width: 900px){
+            .one{
+                width: 900px;
+                height: auto;
+                margin: auto;
+
+            }
+            .a{
+                float: left;
+                width: auto;
+                height: auto;
+            }
+            .two1{
+
+                width: auto;
+                height: auto;
+            }
+            .two2{
+                float: right;
+                width: auto;
+                height: auto;
+            }
+            .three1{
+                width: 600px;
+                height: 200px;
+                float: left;
+                background: red;
+            }
+            .three2{
+                width: 300px;
+                height: 200px;
+                float: left;
+                background: black;
+            }
+            .three3{
+                width: 0;
+                height: 0;
+                border:0;
+            }
+        }
+        @media screen and (min-width: 1200px){
+            .one{
+                width: 1200px;
+                height: auto;
+                margin: auto;
+
+            }
+            .a{
+                float: left;
+                width: auto;
+                height: auto;
+            }
+            .two1{
+
+                width: auto;
+                height: auto;
+            }
+            .two2{
+                float: right;
+                width: auto;
+                height: auto;
+            }
+            .three1{
+                width: 600px;
+                height: 200px;
+                float: left;
+                background: red;
+            }
+            .three2{
+                width: 300px;
+                height: 200px;
+                float: left;
+                background: black;
+            }
+            .three3{
+                width: 300px;
+                height: 100px;
+                background: blue;
+            }
+        }
+
+
+
+
+
+
+    </style>
+</head>
+
+
+
+<body>
+
+<div class="one">
+    <div class="a">
+        <div class="two1">
+            <div class="three1"></div>
+            <div class="three2"></div>
+        </div>
+        <div class="two1">
+            <div class="three2"></div>
+            <div class="three1"></div>
+    </div>
+    </div>
+    <div class="two2">
+       <div class="three3"></div>
+        <div class="three3"></div>
+        <div class="three3"></div>
+        <div class="three3"></div>
+    </div>
+</div>
+
+
+
+</body>
+</html>
