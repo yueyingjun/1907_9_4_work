@@ -1,0 +1,146 @@
+.container{
+    width:100%;
+    height:540px;
+    margin:auto;
+}
+.div-s-1{
+    width:8.333333%;
+}
+.div-s-2{
+    width:16.66666%;
+}
+.div-s-3{
+    width:25%;
+}
+.div-s-4{
+    width:33.33333%;
+}
+.div-s-5{
+    width:41.66666%;
+}
+.div-s-6{
+    width:50%;
+}
+.div-s-7{
+    width:58.33333%;
+}
+.div-s-8{
+    width:66.66666%;
+}
+.div-s-9{
+    width:75%;
+}
+.div-s-10{
+    width:83.333333%;
+}
+.div-s-11{
+    width:91.666666%;
+}
+.div-s-12{
+    width:100%;
+}
+.div-s-hide{
+    display:none;
+}
+@media screen and (min-width:730px){
+    .container{
+        width:100%;
+        height:490px;
+        margin:auto;
+    }
+    .div-ss-1{
+        width:8.333333%;
+    }
+    .div-ss-2{
+        width:16.66666%;
+    }
+    .div-ss-3{
+        width:25%;
+    }
+    .div-ss-4{
+        width:33.33333%;
+    }
+    .div-ss-5{
+        width:41.66666%;
+    }
+    .div-ss-6{
+        width:50%;
+    }
+    .div-ss-7{
+        width:58.33333%;
+    }
+    .div-ss-8{
+        width:66.66666%;
+    }
+    .div-ss-9{
+        width:75%;
+    }
+    .div-ss-10{
+        width:83.333333%;
+    }
+    .div-ss-11{
+        width:91.666666%;
+    }
+    .div-ss-12{
+        width:100%;
+    }
+    .div-s-hide{
+        display:block;
+    }
+    .div-ss-hide{
+        display:none;
+    }
+}
+@media screen and (min-width:1070px){
+    .container{
+        width:100%;
+        height:580px;
+        margin:auto;
+    }
+    .div-sss-1{
+        width:8.333333%;
+    }
+    .div-sss-2{
+        width:16.66666%;
+    }
+    .div-sss-3{
+        width:25%;
+    }
+    .div-sss-4{
+        width:33.33333%;
+    }
+    .div-sss-5{
+        width:41.66666%;
+    }
+    .div-sss-6{
+        width:50%;
+    }
+    .div-sss-7{
+        width:58.33333%;
+    }
+    .div-sss-8{
+        width:66.66666%;
+    }
+    .div-sss-9{
+        width:75%;
+    }
+    .div-sss-10{
+        width:83.333333%;
+    }
+    .div-sss-11{
+        width:91.666666%;
+    }
+    .div-sss-12{
+        width:100%;
+    }
+
+    .div-ss-hide{
+        display:block;
+    }
+    .div-s-hide{
+        display:block;
+    }
+    .div-sss-hide{
+        display:none;
+    }
+}
