@@ -1,0 +1,790 @@
+body{
+     margin: 0;
+     padding: 0;
+ }
+        .top{
+            height: 580px;
+            width: 100%;
+            background: #fafafa;
+        }
+.top_xr{
+    height: 35px;
+    width: 210px;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding-top: 50px;
+}
+.top_xrzi{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.top_xrzi p{
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.top_xrzi_a{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 400;
+    margin: 20px 0;
+
+
+}
+.top_xrzi_a a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.top_xrzi_a a:hover{
+    text-decoration: underline;
+}
+.top_photo{
+    height: 352px;
+    width: 622px;
+
+    margin: auto;
+    background: url("https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_small.jpg")no-repeat center center;
+}
+
+
+.top_2{
+    height: 580px;
+    width: 100%;
+    background: #fafafa;
+    margin-top: 15px;
+}
+.top_xs{
+    height: 35px;
+    width: 210px;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding-top: 50px;
+}
+.top_xszi{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.top_xszi p{
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+}
+.top_xszi_a{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 400;
+    margin: 20px 0;
+
+
+}
+.top_xszi_a a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.top_xszi_a a:hover{
+    text-decoration: underline;
+}
+.top_2_photo{
+    height: 352px;
+    width: 622px;
+
+    margin: auto;
+    background-image: url("../image/ixr.png");
+
+
+}
+
+
+.top_3{
+    height: 580px;
+    width: 100%;
+    background: #fafafa;
+    margin-top: 30px;
+}
+.top_watch{
+    height: 35px;
+    width: 210px;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding-top: 50px;
+}
+.top_whzi{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.top_whzi p{
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+}
+.top_whzi_a{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 20px 0;
+
+
+}
+.top_whzi_a a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.top_whzi_a a:hover{
+    text-decoration: underline;
+}
+.top_3_photo{
+    height: 334px;
+    width: 505px;
+
+    margin: auto;
+    background: url("https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_small.jpg")no-repeat center center;
+}
+
+
+
+
+
+@media screen and (min-width: 730px){
+    .top{
+        height: 580px;
+        width: 100%;
+        background: #fafafa;
+    }
+    .top_xr{
+        height: 35px;
+        width: 210px;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        padding-top: 50px;
+    }
+    .top_xrzi{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .top_xrzi p{
+        margin: 0;
+        margin-top: 5px;
+        padding: 0;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+    }
+    .top_xrzi_a{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        text-align: center;
+        font-size: 21px;
+        font-weight: 400;
+        margin: 20px 0;
+
+
+    }
+    .top_xrzi_a a{
+        color: #0070c9;
+        text-decoration: none;
+    }
+    .top_xrzi_a a:hover{
+        text-decoration: underline;
+    }
+    .top_photo{
+        height: 322px;
+        width: 580px;
+
+        margin: auto;
+        background: url("https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_medium.jpg")no-repeat center center;
+    }
+
+
+    .top_2{
+        height: 580px;
+        width: 100%;
+        background: #fafafa;
+        margin-top: 15px;
+    }
+    .top_xs{
+        height: 35px;
+        width: 210px;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        padding-top: 50px;
+    }
+    .top_xszi{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .top_xszi p{
+        margin: 0;
+        margin-top: 5px;
+        padding: 0;
+        font-size: 20px;
+    }
+    .top_xszi_a{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        text-align: center;
+        font-size: 17px;
+        font-weight: 400;
+        margin: 20px 0;
+
+
+    }
+    .top_xszi_a a{
+        color: #0070c9;
+        text-decoration: none;
+    }
+    .top_xszi_a a:hover{
+        text-decoration: underline;
+    }
+    .top_2_photo{
+        height: 352px;
+        width: 622px;
+
+        margin: auto;
+        background: url("https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_medium.jpg")no-repeat center -310px;
+
+
+    }
+
+
+    .top_3{
+        height: 580px;
+        width: 100%;
+        background: #fafafa;
+        margin-top: 30px;
+    }
+    .top_watch{
+        height: 35px;
+        width: 210px;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        padding-top: 50px;
+    }
+    .top_whzi{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .top_whzi p{
+        margin: 0;
+        margin-top: 5px;
+        padding: 0;
+    }
+    .top_whzi_a{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        margin: 20px 0;
+
+
+    }
+    .top_whzi_a a{
+        color: #0070c9;
+        text-decoration: none;
+    }
+    .top_whzi_a a:hover{
+        text-decoration: underline;
+    }
+    .top_3_photo{
+        height: 334px;
+        width: 505px;
+
+        margin: auto;
+        background: url("https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_medium.jpg")no-repeat center center;
+    }
+}
+
+@media screen and (min-width: 1070px){
+    .top{
+        height: 580px;
+        width: 100%;
+        background: #fafafa;
+    }
+    .top_xr{
+        height: 35px;
+        width: 210px;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        padding-top: 50px;
+    }
+    .top_xrzi{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .top_xrzi p{
+        margin: 0;
+        margin-top: 5px;
+        padding: 0;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+    }
+    .top_xrzi_a{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        text-align: center;
+        font-size: 21px;
+        font-weight: 400;
+        margin: 20px 0;
+
+
+    }
+    .top_xrzi_a a{
+        color: #0070c9;
+        text-decoration: none;
+    }
+    .top_xrzi_a a:hover{
+        text-decoration: underline;
+    }
+    .top_photo{
+        height: 352px;
+        width: 622px;
+
+        margin: auto;
+        background: url("https://www.apple.com/cn/home/images/heroes/spring-iphone-xr/iphone_xr__b0z59ak0bqdy_large.jpg")no-repeat center center;
+    }
+
+
+    .top_2{
+        height: 580px;
+        width: 100%;
+        background: #fafafa;
+        margin-top: 15px;
+    }
+    .top_xs{
+        height: 35px;
+        width: 210px;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        padding-top: 50px;
+    }
+    .top_xszi{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .top_xszi p{
+        margin: 0;
+        margin-top: 5px;
+        padding: 0;
+        font-size: 24px;
+    }
+    .top_xszi_a{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        text-align: center;
+        font-size: 21px;
+        font-weight: 400;
+        margin: 20px 0;
+
+
+    }
+    .top_xszi_a a{
+        color: #0070c9;
+        text-decoration: none;
+    }
+    .top_xszi_a a:hover{
+        text-decoration: underline;
+    }
+    .top_2_photo{
+        height: 352px;
+        width: 622px;
+
+        margin: auto;
+        background: url("https://www.apple.com/v/home/el/images/heroes/iphone-xs/main__bmngiblug0mq_large.jpg")no-repeat center -310px;
+
+
+    }
+
+
+
+
+
+    .top_3{
+        height: 580px;
+        width: 100%;
+        background: #fafafa;
+        margin-top: 30px;
+    }
+    .top_watch{
+        height: 35px;
+        width: 210px;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        padding-top: 50px;
+    }
+    .top_whzi{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        font-family: "SF Pro SC","SF Pro Display","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .top_whzi p{
+        margin: 0;
+        margin-top: 5px;
+        padding: 0;
+    }
+    .top_whzi_a{
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        text-align: center;
+        font-size: 22px;
+        font-weight: 400;
+        margin: 20px 0;
+
+
+    }
+    .top_whzi_a a{
+        color: #0070c9;
+        text-decoration: none;
+    }
+    .top_whzi_a a:hover{
+        text-decoration: underline;
+    }
+    .top_3_photo{
+        height: 334px;
+        width: 505px;
+
+        margin: auto;
+        background: url("https://www.apple.com/cn/home/images/heroes/watch-series-4/watch__csqqcayzqueu_large.jpg")no-repeat center center;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.center_left{
+
+    height: 580px;
+    background: #fafafa;
+
+    margin-top: 20px;
+    box-sizing: border-box;
+    float: left;
+    background:#fafafa url("https://www.apple.com/cn/home/images/promos/fall-2019-event/tile__cauwwcyyn9hy_large.jpg" )no-repeat center 270px;
+}
+.left_zi{
+    margin-top: 20px;
+}
+
+.left_zi p{
+
+    text-align: center;
+
+}
+
+.center_left2{
+    height: 580px;
+    background: #fafafa;
+    margin-top: 20px;
+    box-sizing: border-box;
+    float: left;
+
+    background:#fafafa url("https://www.apple.com/v/home/el/images/promos/iphone-promo/tile__cauwwcyyn9hy_large.jpg" )no-repeat center 170px;
+}
+.top_xrzi_z2{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.top_xrzi_z2 a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.left_zi2{
+    margin-top: 20px;
+}
+.left_zi2 p{
+
+    text-align: center;
+
+}
+
+
+.center_left3{
+    height: 580px;
+    background: #fafafa;
+
+    margin-top: 20px;
+    box-sizing: border-box;
+    float: left;
+    background:#fafafa url("https://www.apple.com/cn/home/images/promos/macbook-pro/macbook_pro_performance__dpg5ujd89nyq_large.jpg" )no-repeat center center;
+}
+.top_xrzi_z3{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.top_xrzi_z3 a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.left_zi3{
+    margin-top: 20px;
+}
+.left_zi3 p{
+    color: #ffffff;
+    text-align: center;
+
+}
+
+
+.center_left4{
+    height: 580px;
+    background: #fafafa;
+    padding: 10px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    float: left;
+
+    background:#fafafa url("https://www.apple.com/cn/home/images/promos/bts/tile__cauwwcyyn9hy_large.jpg" )no-repeat center 80px;
+}
+.top_xrzi_z4{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.top_xrzi_z4 a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.left_zi4{
+    margin-top: 20px;
+}
+.left_zi4 p{
+
+    text-align: center;
+
+}
+
+
+.center_left5{
+    height: 580px;
+    background: #fafafa;
+    padding: 10px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    float: left;
+
+    background:#fafafa url("https://www.apple.com/cn/home/images/promos/airpods/tile__cauwwcyyn9hy_large.jpg" )no-repeat center 80px;
+}
+.top_xrzi_z5{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.top_xrzi_z5 a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.left_zi5{
+    margin-top: 20px;
+}
+.left_zi5 p{
+
+    text-align: center;
+
+}
+
+
+.center_left6{
+    height: 580px;
+    background: #fafafa;
+    padding: 10px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    float: left;
+
+
+    background:#fafafa url("https://www.apple.com/v/home/el/images/promos/ipad-pro/ipad_pro__cesqtbwwmi2u_large.jpg" )no-repeat center 270px;
+}
+.top_xrzi_z6{
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.top_xrzi_z6 a{
+    color: #0070c9;
+    text-decoration: none;
+}
+.left_zi6{
+    margin-top: 20px;
+}
+.left_zi6 p{
+
+    text-align: center;
+
+}
